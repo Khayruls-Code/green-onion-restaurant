@@ -1,0 +1,134 @@
+{
+  "breakfast": [
+    {
+      "id": 1,
+      "name": "Breakfast Burrito",
+      "price": 50,
+      "desc": "Necessitatibus quae voluptatem id blanditiis neque, inventore, sunt laudantium molestiae repellat mollitia Necessitatibus quae voluptatem id blanditiis neque, inventore, sunt laudantium molestiae repellat mollitia",
+      "img": "https://i.ibb.co/bQHR4Ts/breakfast1.png"
+    },
+    {
+      "id": 2,
+      "name": "Belgian Style Waffles",
+      "price": 20,
+      "desc": "Necessitatibus quae voluptatem id blanditiis neque, inventore, sunt laudantium molestiae repellat mollitia Necessitatibus quae voluptatem id blanditiis neque, inventore, sunt laudantium molestiae repellat mollitia",
+      "img": "https://i.ibb.co/W5vLNqz/breakfast2.png"
+    },
+    {
+      "id": 3,
+      "name": "Cinnamon Rolls",
+      "price": 200,
+      "desc": "Necessitatibus quae voluptatem id blanditiis neque, inventore, sunt laudantium molestiae repellat mollitia Necessitatibus quae voluptatem id blanditiis neque, inventore, sunt laudantium molestiae repellat mollitia",
+      "img": "https://i.ibb.co/QdxwrK3/breakfast3.png"
+    },
+    {
+      "id": 4,
+      "name": "Biscuits and Gravy",
+      "price": 70,
+      "desc": "Necessitatibus quae voluptatem id blanditiis neque, inventore, sunt laudantium molestiae repellat mollitia Necessitatibus quae voluptatem id blanditiis neque, inventore, sunt laudantium molestiae repellat mollitia",
+      "img": "https://i.ibb.co/myVQ3p8/breakfast4.png"
+    },
+    {
+      "id": 5,
+      "name": "Eggs Benedict",
+      "price": 60,
+      "desc": "Necessitatibus quae voluptatem id blanditiis neque, inventore, sunt laudantium molestiae repellat mollitia Necessitatibus quae voluptatem id blanditiis neque, inventore, sunt laudantium molestiae repellat mollitia",
+      "img": "https://i.ibb.co/Z8JkRtJ/breakfast5.png"
+    },
+    {
+      "id": 6,
+      "name": "Toasted English Muffin",
+      "price": 50,
+      "desc": "Necessitatibus quae voluptatem id blanditiis neque, inventore, sunt laudantium molestiae repellat mollitia Necessitatibus quae voluptatem id blanditiis neque, inventore, sunt laudantium molestiae repellat mollitia",
+      "img": "https://i.ibb.co/MpsPDw9/breakfast6.png"
+    }
+  ],
+  "lunch": [
+    {
+      "id": 7,
+      "name": "Moong dal khichdi",
+      "price": 200,
+      "desc": "Necessitatibus quae voluptatem id blanditiis neque, inventore, sunt laudantium molestiae repellat mollitia Necessitatibus quae voluptatem id blanditiis neque, inventore, sunt laudantium molestiae repellat mollitia",
+      "img": "https://i.ibb.co/9YqLRsS/lunch1.png"
+    },
+    {
+      "id": 8,
+      "name": "Lemon rice",
+      "price": 150,
+      "desc": "Necessitatibus quae voluptatem id blanditiis neque, inventore, sunt laudantium molestiae repellat mollitia Necessitatibus quae voluptatem id blanditiis neque, inventore, sunt laudantium molestiae repellat mollitia",
+      "img": "https://i.ibb.co/DR7GVSs/lunch2.png"
+    },
+    {
+      "id": 9,
+      "name": "Rice, sambhar and curd",
+      "price": 160,
+      "desc": "Necessitatibus quae voluptatem id blanditiis neque, inventore, sunt laudantium molestiae repellat mollitia Necessitatibus quae voluptatem id blanditiis neque, inventore, sunt laudantium molestiae repellat mollitia",
+      "img": "https://i.ibb.co/cgYKc4h/lunch3.png"
+    },
+    {
+      "id": 10,
+      "name": "Pasta salad",
+      "price": 90,
+      "desc": "Necessitatibus quae voluptatem id blanditiis neque, inventore, sunt laudantium molestiae repellat mollitia Necessitatibus quae voluptatem id blanditiis neque, inventore, sunt laudantium molestiae repellat mollitia",
+      "img": "https://i.ibb.co/tLSN370/lunch4.png"
+    },
+    {
+      "id": 11,
+      "name": "Masala poha",
+      "price": 120,
+      "desc": "Necessitatibus quae voluptatem id blanditiis neque, inventore, sunt laudantium molestiae repellat mollitia Necessitatibus quae voluptatem id blanditiis neque, inventore, sunt laudantium molestiae repellat mollitia",
+      "img": "https://i.ibb.co/fvnj94N/lunch5.png"
+    },
+    {
+      "id": 12,
+      "name": "Toasted English Muffin",
+      "price": 50,
+      "desc": "Necessitatibus quae voluptatem id blanditiis neque, inventore, sunt laudantium molestiae repellat mollitia Necessitatibus quae voluptatem id blanditiis neque, inventore, sunt laudantium molestiae repellat mollitia",
+      "img": "https://i.ibb.co/3pz85vq/lunch6.png"
+    }
+  ],
+  "dinner": [
+    {
+      "id": 13,
+      "name": "Hard tacos or tostadas",
+      "price": 210,
+      "desc": "Necessitatibus quae voluptatem id blanditiis neque, inventore, sunt laudantium molestiae repellat mollitia Necessitatibus quae voluptatem id blanditiis neque, inventore, sunt laudantium molestiae repellat mollitia",
+      "img": "https://i.ibb.co/jRr0qhJ/dinner1.png"
+    },
+    {
+      "id": 14,
+      "name": "Huevos rancheros",
+      "price": 400,
+      "desc": "Necessitatibus quae voluptatem id blanditiis neque, inventore, sunt laudantium molestiae repellat mollitia Necessitatibus quae voluptatem id blanditiis neque, inventore, sunt laudantium molestiae repellat mollitia",
+      "img": "https://i.ibb.co/TYsT0FD/dinner2.png"
+    },
+    {
+      "id": 15,
+      "name": "Stir fry",
+      "price": 160,
+      "desc": "Necessitatibus quae voluptatem id blanditiis neque, inventore, sunt laudantium molestiae repellat mollitia Necessitatibus quae voluptatem id blanditiis neque, inventore, sunt laudantium molestiae repellat mollitia",
+      "img": "https://i.ibb.co/YPqFYMF/dinner3.png"
+    },
+    {
+      "id": 16,
+      "name": "Burritos",
+      "price": 90,
+      "desc": "Necessitatibus quae voluptatem id blanditiis neque, inventore, sunt laudantium molestiae repellat mollitia Necessitatibus quae voluptatem id blanditiis neque, inventore, sunt laudantium molestiae repellat mollitia",
+      "img": "https://i.ibb.co/qxbg704/dinner4.png"
+    },
+    {
+      "id": 17,
+      "name": "Fajitas",
+      "price": 120,
+      "desc": "Necessitatibus quae voluptatem id blanditiis neque, inventore, sunt laudantium molestiae repellat mollitia Necessitatibus quae voluptatem id blanditiis neque, inventore, sunt laudantium molestiae repellat mollitia",
+      "img": "https://i.ibb.co/1ZKjkH2/dinner5.png"
+    },
+    {
+      "id": 18,
+      "name": "Burgers or hotdogs",
+      "price": 50,
+      "desc": "Necessitatibus quae voluptatem id blanditiis neque, inventore, sunt laudantium molestiae repellat mollitia Necessitatibus quae voluptatem id blanditiis neque, inventore, sunt laudantium molestiae repellat mollitia",
+      "img": "https://i.ibb.co/g6rd0WP/dinner6.png"
+    }
+  ]
+}

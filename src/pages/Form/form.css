@@ -1,0 +1,51 @@
+.login-register{
+  display: grid;
+  place-items: center;
+  height: 85vh;
+}
+.form-container{
+  max-width: 450px;
+  padding: 20px;
+  text-align: center;
+  width: 100%;
+}
+.form-container h1{
+  font-size: 2.5rem;
+  color: var(--primary);
+  margin-bottom: 10px;
+}
+form input{
+  width: 100%;
+  padding: 12px 15px;
+  margin: 10px 0;
+  border: none;
+  outline: none;
+  background: #efefef;
+  font-size: 1.5rem;
+  border-radius: 5px;
+}
+form input[type='submit']{
+  background: var(--primary);
+  text-transform: uppercase;
+  font-weight: 500;
+  letter-spacing: 2px;
+  color: #fff;
+  cursor: pointer;
+}
+.goHome{
+  position: absolute;
+  left: 100px;
+  top: 100px;
+  font-size: 1.6rem;
+  color: #333;
+  font-weight: 500;
+}
+.error{
+  color: red;
+  font-size: 1.4rem;
+}
+.have-accoutnt{
+  font-size: 1.5rem;
+  margin-top: 15px;
+  font-weight: 500;
+}

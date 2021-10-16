@@ -1,0 +1,91 @@
+.details-row{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 50px;
+}
+.details-row .left{
+  flex: 1;
+}
+.details-row .left h1{
+  font-size: 5rem;
+  color: var(--text-primary);
+}
+.details-row .left p{
+  font-size: 1.5rem;
+  color: #333;
+  line-height: 25px;
+  margin: 15px 0;
+}
+.details-row .left h2{
+  font-size: 3rem;
+  color: var(--primary);
+  font-weight: 500;
+}
+.details-row .right{
+  flex: 1;
+}
+.details-row .right img{
+  width: 100%;
+}
+.price-count{
+  display: flex;
+  align-items: center;
+  gap: 40px;
+}
+.price-count .countBox{
+  width: 100px;
+  display: flex;
+  align-items: center;
+  height: 40px;
+  border: 1px solid #999;
+  border-radius: 30px;
+}
+.price-count .countBox small,
+.price-count .countBox button{
+  width: 100%;
+  height: 100%;
+  border: none;
+  outline: none;
+  background: transparent;
+  text-align: center;
+  font-size: 2rem;
+}
+.price-count .countBox small{
+  line-height: 40px;
+}
+.price-count .countBox button{
+  cursor: pointer;
+}
+.price-count .countBox button:last-child{
+  color: crimson;
+}
+.addToCartBtn{
+  padding: 10px 20px;
+  border-radius: 30px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  border: none;
+  outline: none;
+  background-color: var(--primary);
+  font-size: 1.6rem;
+  margin: 20px 0 30px;
+  font-weight: 500;
+  color: #fff;
+  cursor: pointer;
+}
+.message{
+  color: crimson !important;
+  font-weight: 600;
+  margin-top: 20px 0 -20px;
+}
+
+@media only screen and (max-width:768px) {
+  .details-row{
+    flex-direction: column;
+  }
+  .details-row .left{
+    margin-top: 50px;
+  }
+}

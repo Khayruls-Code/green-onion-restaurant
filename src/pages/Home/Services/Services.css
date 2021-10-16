@@ -1,0 +1,82 @@
+.service-row{
+  display: flex;
+  justify-content: space-between;
+  gap: 30px;
+}
+.section-title{
+  margin-bottom: 30px;
+}
+.section-title h1{
+  font-size: 3rem;
+  font-weight: 500;
+  text-transform: uppercase;
+  color: var(--text-primary);
+}
+.section-title p{
+  font-size: 1.5rem;
+  color: var(--primary);
+  width: 90%;
+  max-width: 450px;
+  font-style: italic;
+}
+.service{
+  padding: 20px;
+}
+.service-col img{
+  width: 100%;
+}
+.service-title{
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+.service-title .service-icon{
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background: var(--primary);
+  text-align: center;
+  line-height: 48px;
+  font-size: 2.5rem;
+  color: #fff;
+}
+.service-title h2{
+  font-size: 2.2rem;
+}
+.service p{
+  font-size: 1.4rem;
+  margin: 10px 0;
+}
+.service .seeMoreBtn{
+  display: flex;
+  align-items: center;
+  font-size: 1.6rem;
+  gap: 10px;
+  font-weight: bold;
+  color: #00BFFF;
+  cursor: pointer;
+}
+
+@media only screen and (max-width: 768px){
+  .service-row{
+    gap: 10px;
+  }
+  .service-title .service-icon{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    line-height: 35px;
+    font-size: 2rem;
+  }
+  .service-title h2{
+    font-size: 1.8rem;
+  }
+  .service{
+    padding: 10px;
+  }
+}
+@media only screen and (max-width: 665px){
+  .service-row{
+    flex-direction: column;
+  }
+}
